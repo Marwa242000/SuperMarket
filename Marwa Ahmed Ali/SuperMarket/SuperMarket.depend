@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1701798546 source:e:\iti 9-months\c\final project\supermarket\main.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	<conio.h>
+	<windows.h>
+	<conio.h>
+
